@@ -1,0 +1,109 @@
+html,body {height: 100%;}
+
+
+body 
+{padding-top:100px;}
+.navbar-brand {
+	height:100px;
+	line-height: 70px;
+	font-family: 'Ultra', serif; 
+	font-size: 40px;
+	
+	
+}
+.navbar-nav > li  > a {
+	height: 100px;
+	line-height: 70px;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+.carousel-inner > .item {min-height: 600px; background-size: cover; background-position: center center;}
+
+ p 
+{font-family: 'Montserrat', sans-serif; 
+font-size: 20px;
+
+	
+	}
+ p2
+ {font-family: 'Montserrat', sans-serif; 
+font-size: 30px;}
+	h3
+	{font-family: 'Ultra', serif; 
+font-size: 20px;
+font-weight: bold;
+	}
+	h4
+	{font-family: 'Ultra', serif; 
+font-size: 30px;
+font-weight: bold;
+	}
+	h5
+	{font-family: 'Montserrat', serif; 
+font-size: 60px;
+font-weight: bold;
+text-align: center center;
+	}
+	h6
+	{font-family: 'Ultra', serif; 
+font-size: 40px;
+font-weight: bold;
+	}
+ p3
+{font-family: 'Montserrat', sans-serif; 
+font-size: 40px;
+}
+
+#footer {
+		padding: 4em 0 2em 0;
+		background-color: #white;
+		text-align: center;
+		min-width: 100%;
+		
+	}
+
+		#footer .inner {
+			width: 50%;
+			margin: 0 auto;
+		}
+
+
+			@media screen and (max-width: 980px) {
+
+				#footer .inner {
+					width: 100%;
+				}
+
+			   }
+
+			@media screen and (max-width: 480px) {
+
+				#footer .inner {
+					width: 100%;
+				}
+
+			}
+
+		#footer .copyright {
+			
+			font-size: 0.9em;
+			margin: 0 0 2em 0;
+			padding: 0;
+			text-align: center;
+			}
+		@media screen and (max-width: 736px) {
+
+			#footer {
+				padding: 3em 0 1em 0;
+			}
+			
+
+			img {min-height: 600px; background-size:auto; background-position: center center;}
+  
+
+
+h1 {font-family: 'Montserrat', sans-serif; 
+font-size: 50px;
+font-weight: bold;
+	}
+
